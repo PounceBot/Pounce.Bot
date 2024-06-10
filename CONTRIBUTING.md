@@ -1,0 +1,1 @@
+If you would like to contribute to this project, please contact us at info@pounce.bot. We welcome contributions and feedback from the community to improve our tools and enhance the trading experience for everyone.
